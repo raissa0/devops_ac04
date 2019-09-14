@@ -1,4 +1,4 @@
-from unittes import TestCase
+from unittest import TestCase
 from com.kuma.cabecalho import NOMES
 
 class TestCabecalho(TestCase):
